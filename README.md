@@ -10,4 +10,8 @@ Sample website with plenty of files for demos
 
 ## How To Contribute 
 ai 7aga
+
 ## Deoplyment
+
+## Copyright 
+Git.trining 

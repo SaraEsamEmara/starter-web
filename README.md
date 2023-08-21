@@ -9,7 +9,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## How To Contribute 
-ai 7aga
+please fork this repo and then issue Pull req 4 review
 
 ## Deoplyment
 
